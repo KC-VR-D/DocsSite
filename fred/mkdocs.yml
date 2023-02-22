@@ -1,0 +1,16 @@
+site_name: MKLorum
+site_url: https://example.com
+nav:
+  - Home: index.md
+  - About: about.md
+  - scan: 'https://scan.co.uk'
+  - stuff: stuff/stuffaboutstuff.md
+  - assignment: assignment/assignment.md
+  - safety regulations: safetyregulationkitchen/safetyregkitchen.md
+
+
+
+
+
+
+
